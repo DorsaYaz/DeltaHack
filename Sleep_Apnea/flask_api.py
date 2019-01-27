@@ -2,7 +2,7 @@ from flask import Flask, Response, request, jsonify
 from scipy.io import wavfile
 from scipy import signal
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 app = Flask(__name__)
