@@ -28,7 +28,7 @@ class Main2Activity : AppCompatActivity() {
     fun fetchXML() {
         println("Attempting to Fetch JSON")
         //val url = "http://127.0.0.1:5000/get_data"
-        val url = "http://10.0.2.2:5000/get_data?file_name=sample_4.wav"
+        val url = "http://10.0.2.2:5000/get_data?file_name=sample_3.wav"
         //  url = "https://api.letsbuildthatapp.com/youtube/home_feed"
         //val url = "https://www.w3schools.com/xml/note.xml"
 
